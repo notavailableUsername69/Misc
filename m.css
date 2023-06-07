@@ -1,0 +1,22 @@
+#player {
+  width: 300px;
+  margin: 20px auto;
+}
+
+#playlist {
+  list-style: none;
+  padding: 0;
+}
+
+#playlist li {
+  margin-bottom: 5px;
+}
+
+#playlist li a {
+  text-decoration: none;
+  color: #333;
+}
+
+#playlist li a:hover {
+  color: #000;
+}
